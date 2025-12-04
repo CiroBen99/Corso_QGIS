@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+*.tif
+*.tiff
+*.gpkg
+*.zip

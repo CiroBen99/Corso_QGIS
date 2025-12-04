@@ -1,0 +1,15 @@
+name: geo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - notebook
+  - pandas
+  - geopandas
+  - shapely
+  - pyproj
+  - pyogrio
+  - fiona
+  - folium
+  - ipywidgets
